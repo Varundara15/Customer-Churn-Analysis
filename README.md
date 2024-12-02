@@ -1,4 +1,11 @@
 # Customer-Churn-Analysis
+An interactive Power BI dashboard that analyzes customer churn and identifies actionable insights to improve customer retention strategies.
+💻 Tools Used: 
+Power BI  
+Data Analysis Expressions (DAX) 
+Data Storytelling
+
+
 # Insights:
 1: Total customers are 7043, with the number of retained customers being 5174, and customers churned are 1869.
 2:  The churn rate is 26.5%, which indicates that more than a quarter of customers are leaving.
